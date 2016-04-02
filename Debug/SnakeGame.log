@@ -1,4 +1,0 @@
-﻿  Source.cpp
-c:\users\manish kushwaha\desktop\snakegame\snakegame\source.cpp(160): warning C4018: '<': signed/unsigned mismatch
-c:\users\manish kushwaha\desktop\snakegame\snakegame\source.cpp(229): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  SnakeGame.vcxproj -> C:\Users\Manish Kushwaha\Desktop\SnakeGame\Debug\SnakeGame.exe
